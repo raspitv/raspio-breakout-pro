@@ -31,10 +31,10 @@ Run each script by typing
 With these scripts you should be able to...
 
 
-*port-test.py       - up and down pattern, increasing speed
-*port-test-pwm1.py  - brighten and dim the leds in succession
-*port-test-pwm2.py  - brighten and dim alternate sides
-*port-test-pwm3.py  - brighten and dim alternate groups of leds
+* port-test.py       - up and down pattern, increasing speed
+* port-test-pwm1.py  - brighten and dim the leds in succession
+* port-test-pwm2.py  - brighten and dim alternate sides
+* port-test-pwm3.py  - brighten and dim alternate groups of leds
 
 ##Enjoy
 
