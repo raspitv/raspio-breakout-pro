@@ -1,6 +1,6 @@
 #raspio-breakout-pro
 
-https://github.com/raspitv/raspi-breakout-pro
+https://github.com/raspitv/raspio-breakout-pro
 
 
 RasPiO® Breakout Pro Python scripts
@@ -15,7 +15,7 @@ http://rasp.io/breakoutpro
 
 ##Preparation
 
-Connect a wire from each port to an led (long leg, +ve side).
+Connect a wire from each port to an LED (long leg, +ve side).
 Connect the other end of the LED to GND.
 
 With the RasPiO® Breakout Pro, you don't need a resistor for your LED as there is already one on the underside of the board.
